@@ -1,0 +1,79 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: #225500 !important;
+}
+.navbar-brand{
+    color: white !important;  
+}
+.nav-link{
+    color: white !important;
+}
+.nav-link:hover{
+    font-size: 18px;
+    color: #cacaca !important;
+}
+
+nav .btn{
+    background-color: #d2eec0 !important;
+}
+nav .btn:hover{
+    color:#225500;
+}
+nav input{
+    background-color: #eee !important;
+    border: none !important;
+}
+
+body{
+    background-color: #eee;
+}
+.card{
+    border: 1px solid #457624;
+    background-color: #eee;
+}
+#div1{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    font-weight: bold;
+
+}
+#showPrice{
+    border-radius: 5px;
+    margin-left: 20px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+#showPrice:hover{
+    background-color: #225500 !important;
+}
+#total{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.card-title{
+    text-align: center;
+    margin-bottom: 30px;
+   
+    font-weight: bold;
+    font-size: 25px;
+
+}
+.card-text{
+    text-align: center;
+    margin-top: 10px;
+    width: 150px;
+    background-color: #457624;
+    border-radius: 5px;
+    color: white;
+    font-size: 22px;
+    margin-left:50px;
+    cursor:grab;
+}
